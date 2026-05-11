@@ -51,7 +51,7 @@ var editable = false;
 
 /**
  * Subtitle describing the paper the data is referring to (set to null to deactivate)
- * @type {{html: string, id: string}}
+ * @type {null}
  */
 var paper = null;
 
